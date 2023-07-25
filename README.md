@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Isha
-- 👀 I’m interested in rading novels,listening to music
+- 👀 I’m interested in reading novels,listening to music
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
