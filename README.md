@@ -10,7 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/isha-prasuna-bodavula-5052b5240/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/isha-prasuna-bodavula-" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/isha_prasuna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="isha_prasuna" height="30" width="40" /></a>
+<a style="display: none;",href="https://www.leetcode.com/isha_prasuna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="isha_prasuna" height="30" width="40" /></a>
 <a href="https://instagram.com/isha_prasuna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="isha_prasuna" height="30" width="40" /></a>
 </p>
 
