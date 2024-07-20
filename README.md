@@ -1,10 +1,10 @@
-- 👋 Hi, I’m Isha
-- 👀 I’m interested in reading novels,listening to music
-- 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+🔭 I’m currently persuing by btech in VVIT
 
-<!---
-23isha/23isha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🌱 I’m currently learning Full Stack
+
+👯 I’m looking to collaborate with Full-Stack Developers
+
+💬 Ask me about: HTML, CSS, JS, C, PYTHON
+
+📫 Reach me ishaprasunabodavula@gmail.com
+
